@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yuguochencuc/yuguochencuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
  Hi, I'm Guochen Yu (余果宸) 
 - 📕 Research interests: Speech Processing (including Speech Enhancment and Audio Packet Loss Concealment)
