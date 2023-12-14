@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
  Hi, I'm Guochen Yu (余果宸) 
 - 📕 Research interests: Speech Processing (including Speech Enhancment and Audio Packet Loss Concealment)
-- 📫 How to concact me: yuguochen@cuc.edu.cn
-- 🔭 I’m currently working on Communication University of China and Institute of Acoustics, Chinese Academy of Sciences
+- 📫 How to concact me: yuguochen@kuaishou.com
+- 🔭 I’m currently working on Kuaishou Technology, Beijing, China. 
 
 <table id="tbl" border=1 width="80%" rules=none frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=yuguochencuc&show_icons=true&hide=issues&theme=dark&hide_title=false" ></td>
