@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
  Hi, I'm Guochen Yu (余果宸) 
-- 📕 Research interests: Speech Processing (including Speech Enhancment and Audio Packet Loss Concealment)
-- 📫 How to concact me: yuguochen@kuaishou.com
-- 🔭 I’m currently working on Kuaishou Technology, Beijing, China. 
+- 📕 Research interests: Large Speech Language Model (including text-to-speech (TTS), audio/music generation, End-to-End Spoken Chatbot, video-audio joint generation)
+- 📫 How to reach me: yuguochen@cuc.edu.com
+- 🔭 I’m currently working on Zhipu.AI, Beijing, China, and was employed by Kuaishou Technology.
 
 <table id="tbl" border=1 width="80%" rules=none frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=yuguochencuc&show_icons=true&hide=issues&theme=dark&hide_title=false" ></td>
